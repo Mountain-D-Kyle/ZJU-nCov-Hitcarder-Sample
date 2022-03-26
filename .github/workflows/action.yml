@@ -16,17 +16,17 @@ jobs:
             password: ZJU_PASSWORD365
             dingtalk_token: DINGTALK_TOKEN
             pushplus_token: A
-            serverchan_key: SERVERCHAN_KEY
+            serverchan_key: B
           - username: ZJU_USERNAME_364
             password: ZJU_PASSWORD_364
             dingtalk_token: DINGTALK_TOKEN
-            pushplus_token: PUSHPLUS_TOKEN153
-            serverchan_key: SERVERCHAN_KEY
+            pushplus_token: A
+            serverchan_key: B
           - username: ZJU_USERNAME_XLS
             password: ZJU_PASSWORD_XLS
             dingtalk_token: DINGTALK_TOKEN_XLS
-            pushplus_token: PUSHPLUS_TOKEN
-            serverchan_key: SERVERCHAN_KEY
+            pushplus_token: A
+            serverchan_key: B
     steps:
       - name: Working
         uses: Long0x0/zju-ncov-hitcarder@master
