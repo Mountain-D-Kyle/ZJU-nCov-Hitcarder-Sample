@@ -29,7 +29,7 @@ jobs:
             serverchan_key: B
     steps:
       - name: Working
-        uses: Mountain-D-Kyle/my_hitcard2@master
+        uses: Mountain-D-Kyle/ZJU-nCov-Hitcarder@master
         with:
           username: ${{ secrets[matrix.username] }}
           password: ${{ secrets[matrix.password] }}
