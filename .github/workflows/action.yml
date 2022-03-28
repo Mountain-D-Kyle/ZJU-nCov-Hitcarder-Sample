@@ -19,12 +19,17 @@ jobs:
             serverchan_key: B
           - username: ZJU_USERNAME_364
             password: ZJU_PASSWORD_364
-            dingtalk_token: DINGTALK_TOKEN
+            dingtalk_token: NA
             pushplus_token: A
             serverchan_key: B
           - username: ZJU_USERNAME_XLS
             password: ZJU_PASSWORD_XLS
             dingtalk_token: DINGTALK_TOKEN_XLS
+            pushplus_token: A
+            serverchan_key: B
+          - username: ZJU_USERNAME_XZH
+            password: ZJU_PASSWORD_XZH
+            dingtalk_token: DINGTALK_TOKEN_XAH
             pushplus_token: A
             serverchan_key: B
     steps:
