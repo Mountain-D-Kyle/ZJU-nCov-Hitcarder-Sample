@@ -19,7 +19,7 @@ jobs:
             serverchan_key: B
           - username: ZJU_USERNAME_364
             password: ZJU_PASSWORD_364
-            dingtalk_token: NA
+            dingtalk_token: DINGTALK_TOKEN_YZM
             pushplus_token: A
             serverchan_key: B
           - username: ZJU_USERNAME_XLS
